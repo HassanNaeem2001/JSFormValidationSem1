@@ -24,7 +24,7 @@
   </li>
   <br>
   <li>
-   <b>Do not forget to give your button an onclick listener and the function name for validating it would be ["validate()"]</b>
+   <b>Do not forget to give your button an onclick="" listener and the function name for validating it would be "validate()"</b>
   </li>
   <br>
   <li>
