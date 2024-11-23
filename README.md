@@ -20,13 +20,10 @@
   <p>You can take a new tab and type toast js then go to docs => copy the css and js cdns from the page and paste it below these links</p>
   <br>
   <li>
-   
     <b>Step No 3. Give all your input types and textarea the same class="inputs"</b>
-    
   </li>
   <br>
   <li>
    <center> <b>CONGRATS ! You are all set</b></center>
   </li>
-  
 </ol>
